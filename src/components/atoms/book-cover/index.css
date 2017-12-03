@@ -1,0 +1,9 @@
+.book-cover {
+	width: 60px;
+	height: 60px;
+	border-radius: 50px;
+	background-repeat: no-repeat;
+	margin-right: 20px;
+	background-size: cover;
+	/*background-image: url('../../../icons/atlant.jpg')*/
+}

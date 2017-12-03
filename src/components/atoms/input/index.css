@@ -1,0 +1,16 @@
+.input {
+	border-radius: 3px;
+	border: 1px solid #e8e8e8;
+	font-size: inherit;
+	font-family: inherit;
+	color:  #7e7e7e;
+	min-height: 30px;
+	line-height: 28px;
+	padding-left: 10px;
+	margin-bottom: 10px;
+	width: 100%;
+}
+
+.input:focus, .input:hover {
+	border-color: #00bfa5;
+}

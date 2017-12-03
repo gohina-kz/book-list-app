@@ -1,0 +1,35 @@
+.link-primary {
+  display: block;
+  font-family: inherit;
+  text-decoration: none;
+  color: #00bfa5;
+}
+
+.link-primary:hover {
+	color: #bf000d;
+}
+
+.link-secondary {
+	display: block;
+  width: 73px;
+  background: white;
+  background-image: url('../../../icons/person-add.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 28px;
+  font-size: 0;
+	/*border: 1px solid #00bfa5*/
+	border: 0;
+}
+
+.link-back {
+	display: block;
+  width: 60px;
+	height: 60px;
+  background: white;
+  background-image: url('../../../icons/arrow-back.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 30px;
+  font-size: 0;
+}

@@ -1,0 +1,12 @@
+.card {
+	margin: 20px;
+	border: 1px solid #d5d8df;
+	border-radius: 4px;
+	padding: 20px;
+}
+
+.book-details {
+	padding-left: 20px;
+	border-left: 1px solid #eee;
+	flex: 1 1;
+}

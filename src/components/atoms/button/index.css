@@ -1,0 +1,30 @@
+.button-primary {
+	display: block;
+  width: 100%;
+	background: #00bfa5;
+  border: 1px solid #00bfa5;
+  border-radius: 3px;
+  color: #fff;
+  height: 30px;
+  line-height: 1rem;
+}
+
+.button-secondary {
+	padding-left: 20px;
+	align-self: center;
+	width: 32px;
+	height: 32px;
+	background-color: transparent;
+	background-image: url('../../../icons/cancel.svg');
+	background-size: 100% 100%;
+	border: 0;
+	color: black;
+	font-size: 0;
+	vertical-align: middle;
+	cursor: pointer;
+	outline: none;
+}
+
+.button-without-border {
+	border: 0;
+}

@@ -1,0 +1,11 @@
+.flex {
+	display: flex;
+}
+
+.fl-c {
+	justify-content: center;
+}
+
+.fl-col {
+	flex-direction: column;
+}
